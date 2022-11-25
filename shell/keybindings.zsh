@@ -1,1 +1,1 @@
-bindkey -s '\er' 'node ~/dotfiles/chrome-shell/src/index.js ^M'
+bindkey -s '\er' 'node ~/chrome-shell/src/index.js ^M'
